@@ -40,4 +40,4 @@ const proudOfThisFunc = () => {
 
 - Website - [Alam Nurzaman](https://portofolio-alamnurzaman.vercel.app/)
 - Frontend Mentor - [@alamnurzaman17](https://www.frontendmentor.io/profile/alamnurzaman17)
-- Twitter - [alam_nurzaman](https://www.instagram.com/alam_nurzaman)
+- Instagram - [alam_nurzaman](https://www.instagram.com/alam_nurzaman)
